@@ -1,0 +1,1 @@
+Just run the code with python mergesort.py or python insertsort.py, the output file will be created.
